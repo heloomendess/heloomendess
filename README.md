@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Heloisa Mendes
 
-- 🔭 Atualmente estou no primeiro semestre do curso Análise e Desenvolvimento de Sistemas.
+- 🔭 Atualmente estou no segundo semestre do curso Análise e Desenvolvimento de Sistemas.
 - 🌱 Estudando Java.
 
  <div style="display: inline_block"><br>
