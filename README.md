@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Heloisa Mendes
 
 - 🔭 Atualmente estou no quarto semestre de Análise e Desenvolvimento de Sistemas.
-- 🌱 Estudando Java e Kotlin.
+- 🌱 Estudando Java e Python.
 
  <div style="display: inline_block"><br>
   <img align="center" alt="helo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
